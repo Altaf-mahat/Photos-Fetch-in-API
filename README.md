@@ -1,4 +1,7 @@
-# React + Vite
+# Gallary Photos
+
+<img width="1775" height="859" alt="image" src="https://github.com/user-attachments/assets/ee98161a-7527-401a-8656-ce8893b4b228" />
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
